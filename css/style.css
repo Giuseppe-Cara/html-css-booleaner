@@ -1,7 +1,15 @@
 .page-header {
     background-image: url(../img/pattern.png);
+    background-color: #00c9fc;
 }
+
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
+}
+
+tr:nth-child(odd) {
+    background-color: #00c9fc;
 }
